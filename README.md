@@ -4,10 +4,10 @@ Performed data cleaning on the 2023 Ask A Manager Salary Survey responses.<br/><
 **Tools:** Python and its libraries - Pandas, NumPy, RegEx.
 
 ## Scenario
-The [responses](https://docs.google.com/spreadsheets/d/1ioUjhnz6ywSpEbARI-G3RoPyO0NRBqrJnWf-7C_eirs/edit?resourcekey=&gid=1854892322#gid=1854892322) to the [Ask A Manager Salary Survey 2023](https://docs.google.com/forms/d/10sn2XFmvjtRxrw7vedkpSp3cAd2kvKrOjnqHpeUXl4U/viewform?edit_requested=true) are informative but inconsistent, suffering from missing data, formatting inconsistencies, and unstandardized categories. My goal is to clean and standardize the dataset so it becomes complete, consistent, and ready for meaningful analysis.
+The [responses](/Ask%20A%20Manager%20Salary%20Survey%202023%20(Responses).csv) to the [Ask A Manager Salary Survey 2023](https://docs.google.com/forms/d/10sn2XFmvjtRxrw7vedkpSp3cAd2kvKrOjnqHpeUXl4U/viewform?edit_requested=true) are informative but inconsistent, suffering from missing data, formatting inconsistencies, and unstandardised categories. My goal is to clean and standardise the dataset so it becomes complete, consistent, and ready for meaningful analysis.
 
 ## Code File
-[`data_cleaning.ipynb`](https://github.com/minhajabdullah/Messy-Data-Cleanup/blob/main/data_cleaning.ipynb)
+[`data_cleaning.ipynb`](/data_cleaning.ipynb)
 
 ## Data Cleaning Methodology
 
@@ -131,7 +131,7 @@ This step reduced unnecessary information and kept the final dataset focused on 
 
 After completing the cleaning and standardisation process, I exported the resulting DataFrame as:
 
-[`clean_dataset.csv`](https://github.com/minhajabdullah/messy-data-cleanup/blob/main/clean_dataset.csv)
+[`clean_dataset.csv`](/clean_dataset.csv)
 
 This cleaned dataset can now be used for subsequent analysis.
 
