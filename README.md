@@ -1,6 +1,5 @@
 # Messy Data Cleanup
-Performed data cleaning on the 2023 Ask A Manager Salary Survey responses.<br/><br/>
-**Skills:** Data Cleaning <br/>
+Performing data cleaning on the 2023 Ask A Manager Salary Survey responses.<br/><br/>
 **Tools:** Python and its libraries - Pandas, NumPy, RegEx.
 
 ## Scenario
